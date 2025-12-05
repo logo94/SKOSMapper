@@ -92,7 +92,9 @@ These methods retrieve the URIs of related concepts, then iterate to fetch the f
 
 LOD Cloud: https://lod-cloud.net/dataset/bncf-ns
 
-SPARQL Endpoint:
+SPARQL Endpoint: https://digitale.bncf.firenze.sbn.it/openrdf-sesame/repositories/NS/query
+
+Config file: No
 
 | Type | Tested | Is working | Notes |
 | --- | --- | ---| --- |
@@ -106,6 +108,8 @@ LOD Cloud: https://lod-cloud.net/dataset/dnb-gemeinsame-normdatei
 
 SPARQL Endpoint: https://sparql.dnb.de/api/gnd
 
+Config file: Yes
+
 | Type | Tested | Is working | Notes |
 | --- | --- | ---| --- |
 | Static dump | n | - | |
@@ -118,6 +122,8 @@ LOD Cloud: https://lod-cloud.net/dataset/getty-aat
 
 SPARQL Endpoint: https://vocab.getty.edu/sparql
 
+Config file: -
+
 | Type | Tested | Is working | Notes |
 | --- | --- | ---| --- |
 | Static dump | n | - | |
@@ -129,6 +135,8 @@ SPARQL Endpoint: https://vocab.getty.edu/sparql
 LOD Cloud: https://lod-cloud.net/dataset/data-bnf-fr
 
 SPARQL Endpoint: http://data.bnf.fr/sparql
+
+Config file: -
 
 | Type | Tested | Is working | Notes |
 | --- | --- | ---| --- |
